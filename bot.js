@@ -7,7 +7,7 @@ var bot = new Discord.Client({autoReconnect: true});
 
 bot.OWNERID = '<317353352239513602>';
 bot.PREFIX = '<.>';
-bot.TOKEN = '<bpYYYkTQyry1DHcYh1YaU-pWt87ni6VLF>';
+bot.TOKEN = '<NDA5MTk3MzMzMzk0MzU4Mjcy.DVbQtA.DOUSB8K1c1HPvtImatJ7CGN4TaM>';
 
 bot.DETAILED_LOGGING = false;
 bot.DELETE_COMMANDS = false;
